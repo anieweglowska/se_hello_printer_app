@@ -16,6 +16,11 @@ def index():
                          output.lower())
 
 
+@app.route('/Ola')
+def wyraz():
+    return moje_imie
+
+
 @app.route('/outputs')
 def supported_output():
     return ", ".join(SUPPORTED)
