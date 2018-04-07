@@ -11,3 +11,7 @@ script:
   - make docker_build
   - make docker_push
 #after_success:
+deploy:
+  provider: heroku
+  app: radiant-reef-65022
+  api_key: ${HEROKU_API_KEY}
