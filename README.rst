@@ -85,3 +85,6 @@ Materiały
 
 .. image:: https://travis-ci.org/anieweglowska/se_hello_printer_app.svg?branch=master
     :target: https://travis-ci.org/anieweglowska/se_hello_printer_app
+    
+.. image:: https://app.statuscake.com/button/index.php?Track=hOj8MWehMT&Days=1&Design=1
+    :target: https://app.stauscake.com/
