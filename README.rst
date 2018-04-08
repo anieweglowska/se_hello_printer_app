@@ -83,4 +83,5 @@ Materiały
 
 - https://virtualenvwrapper.readthedocs.io/en/latest/
 
-https://travis-ci.org/anieweglowska/se_hello_printer_app.svg?branch=master
+.. image:: https://travis-ci.org/anieweglowska/se_hello_printer_app.svg?branch=master
+    :target: https://travis-ci.org/anieweglowska/se_hello_printer_app
